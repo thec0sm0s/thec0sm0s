@@ -7,4 +7,4 @@
 - 💬 Ask me about stuffs.
 - 📫 How to reach me: [Stuffs](https://discord.gg/7CrQEyP)
 - 😄 Pronouns: S, T, U, F, F, S
-- ⚡ Fun fact: Antimatter stuffs are time reversed matters.
+- **⚡ Fun fact: Antimatter stuffs are time reversed matters.**
