@@ -38,3 +38,5 @@
 **Tags:** `#Python` `#Flask`
 
 **Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>
+
+[Join our Discord community](https://discord.gg/7CrQEyP) to follow up on this event, share issues or contribute.
