@@ -20,15 +20,6 @@
 
 **Link to GH issue:** <https://github.com/thec0sm0s/TODOx/issues/4>
 
-### __**Image Processor**__
-**Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
-
-**Issue:** There is a function which takes in an image or a GIF and write some texts and user's avatar over it. In case of GIF, this process is repeated on each GIF frame. But the issue is that, this causes the output GIF size to explode in range of 10-15MB. Any possible improvements to this are welcome which optimizes the resulting GIF or reduces its size.
-
-**Tags:** `#Python` `#PIL` `#Pillow` `#Flask`
-
-**Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/1>
-
 ### __**Flask Discord**__
 
 **Description:** A Flask extension to easily implement Discord OAuth2.
@@ -48,5 +39,14 @@
 **Tags:** `#Python` `#Flask`
 
 ~~**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/1>~~
+
+### ~~__**Image Processor**__~~ [Assigned]
+**Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
+
+**Issue:** There is a function which takes in an image or a GIF and write some texts and user's avatar over it. In case of GIF, this process is repeated on each GIF frame. But the issue is that, this causes the output GIF size to explode in range of 10-15MB. Any possible improvements to this are welcome which optimizes the resulting GIF or reduces its size.
+
+**Tags:** `#Python` `#PIL` `#Pillow` `#Flask`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/1>~~
 
 [Join our Discord community](https://discord.gg/7CrQEyP) to follow up on this event, share issues or contribute.
