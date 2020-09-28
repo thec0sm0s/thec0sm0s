@@ -39,7 +39,7 @@
 
 **Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>
 
-### [Assigned] ~~__**Instant Notes**__~~
+### ~~__**Instant Notes**__~~ [Assigned]
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
