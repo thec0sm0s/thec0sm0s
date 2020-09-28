@@ -8,3 +8,8 @@
 - 📫 How to reach me: [Stuffs](https://discord.gg/7CrQEyP)
 - 😄 Pronouns: S, T, U, F, F, S
 - **⚡ Fun fact: Antimatter stuffs are time reversed matters.**
+
+Hacktoberfest Issues:
+https://github.com/thec0sm0s/TODOx/issues/4
+https://github.com/thec0sm0s/image-processor/issues/1
+https://github.com/thec0sm0s/Flask-Discord/issues/29
