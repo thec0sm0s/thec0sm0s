@@ -39,4 +39,14 @@
 
 **Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>
 
+### [Assigned] ~~__**Instant Notes**__~~
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Issue:** Currently it stores passwords in plain text. Which is really bad practice. So it requires just a basic change which will store passwords using hashes along with salts. To make this process easier, werkzeug already comes up with a utility function for this: `werkzeug.security.generate_password_hash` and `werkzeug.security.check_password_hash` which can be used here.
+
+**Tags:** `#Python` `#Flask`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/1>~~
+
 [Join our Discord community](https://discord.gg/7CrQEyP) to follow up on this event, share issues or contribute.
