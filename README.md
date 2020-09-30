@@ -9,6 +9,10 @@
 - 😄 Pronouns: S, T, U, F, F, S
 - **⚡ Fun fact: Antimatter stuffs are time reversed matters.**
 
+
+> [Join our Discord community](https://discord.gg/7CrQEyP) to follow up on this event, share issues or contribute.
+
+
 ## Hacktoberfest Issues
 
 __**Image Processor**__
@@ -120,5 +124,3 @@ __**Cosmos Discord Bot**__
 **Tags:** `#Python` `#PIL` `#Pillow` `#Flask`
 
 ~~**Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/1>~~
-
-[Join our Discord community](https://discord.gg/7CrQEyP) to follow up on this event, share issues or contribute.
