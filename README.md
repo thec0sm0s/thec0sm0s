@@ -11,6 +11,34 @@
 
 ## Hacktoberfest Issues
 
+__**Image Processor**__
+
+**Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
+
+**Feature request:** Use Python PIL to generate few more interesting memes based on some preset templates. Example attached with issue linked below.
+
+**Tags:** `#Python` `#PIL` `#Pillow`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/2>
+
+__**Cosmos Discord Bot**__
+
+**Description:** A general purpose Discord bot which aims to satisfy everyone's requirements and interests, from administration of their servers to fun commands (soon) for normal its normal members.
+
+**Issue:** The voice XP is given to some user depends on amount of time they spent in voice chat. However, users who are sitting alone in voice chat or sitting in voice chat just with bots aren't ignored currently. This should be fixed and give XP to only those users who appear to be actually talking.
+
+**Tags:** `#Python` `#discord.py`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/6>
+
+__**Cosmos Discord Bot**__
+
+**Enhancement:** Add few more messages to be displayed over bot's status.
+
+**Tags:** `#YAML`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/7>
+
 ### __**TODOx**__
 **Description:** A simple TODO web app built using Django Rest Framework as backend and ReactJS with Groummet for frontend.
 
