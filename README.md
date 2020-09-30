@@ -30,6 +30,50 @@
 
 **Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>
 
+### __**Instant Notes**__
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Feature addition:** Provide way for users to edit the notes which was shared by someone else.
+
+**Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
+
+**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/2>
+
+**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/3>
+
+### __**Instant Notes**__
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Feature addition:** Allow same users to create multiple notes. Provide section for list of all of the notes in sidebar section in frontend.
+
+**Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
+
+**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/3>
+
+**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>
+
+### __**Instant Notes**__
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Feature addition:** Add Dark mode in the UI.
+
+**Tags:** `#Javascript` `#ReactJS`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes-web/issues/2>
+
+### __**Instant Notes**__
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Feature addition:** Include support for Microsoft Monaco Editor in case user wants to deal with code snippets.
+
+**Tags:** `#Javascript` `#ReactJS`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes-web/issues/1>
+
 ### ~~__**Instant Notes**__~~ [Assigned]
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
