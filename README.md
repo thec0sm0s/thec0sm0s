@@ -53,15 +53,6 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/7>
 
-### __**TODOx**__
-**Description:** A simple TODO web app built using Django Rest Framework as backend and ReactJS with Groummet for frontend.
-
-**Feature Request:** The backend part is almost complete and doesn't needs much work. Even the ReactJS frontend part includes the Login and Signup flow. However, it is missing the actual component which will display the list of TODOs and allow one to create/delete/modify existing ones. And this main `todos.jsx` component needs to be included into it.
-
-**Tags:** `#Javascript` `#ReactJS` `#Python` `#Django`
-
-**Link to GH issue:** <https://github.com/thec0sm0s/TODOx/issues/4>
-
 ### __**Flask Discord**__
 
 **Description:** A Flask extension to easily implement Discord OAuth2.
@@ -115,6 +106,15 @@ __**Cosmos Discord Bot**__
 **Tags:** `#Javascript` `#ReactJS`
 
 **Link to GH issue:** <https://github.com/thec0sm0s/instant-notes-web/issues/1>
+
+### ~~__**TODOx**__~~ [Assigned]
+**Description:** A simple TODO web app built using Django Rest Framework as backend and ReactJS with Groummet for frontend.
+
+**Feature Request:** The backend part is almost complete and doesn't needs much work. Even the ReactJS frontend part includes the Login and Signup flow. However, it is missing the actual component which will display the list of TODOs and allow one to create/delete/modify existing ones. And this main `todos.jsx` component needs to be included into it.
+
+**Tags:** `#Javascript` `#ReactJS` `#Python` `#Django`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/TODOx/issues/4>~~
 
 ### ~~__**Instant Notes**__~~ [Assigned]
 
