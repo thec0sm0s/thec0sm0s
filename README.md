@@ -15,6 +15,16 @@
 
 ## Hacktoberfest Issues
 
+### __**Async OAuthlib**__
+
+**Description:** Aiming to provide asynchronous support for requests_oauthlib using aiohttp rather than requests.
+
+**Issue:** I have tried looking for most of the requests usages in the library mostly in `oauth2_session.py` and `oauth2_auth.py` and patched them as for aiohttp. But the others like oauth1_session.py and oauth1_auth.py are still using requests. So the task is to remove all of the requests usages and replace with aiohttp. You make take look at oauth2_session.py for your reference.
+
+**Tags:** `#Python` `#Aiohttp`
+
+**Link to GH Project:** <https://github.com/thec0sm0s/Async-OAuthlib>
+
 __**Image Processor**__
 
 **Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
