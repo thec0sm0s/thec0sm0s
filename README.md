@@ -146,4 +146,4 @@ __**Cosmos Discord Bot**__
 
 ~~**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/3>~~
 
-**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>
+~~**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>~~
