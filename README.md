@@ -126,7 +126,7 @@ __**Cosmos Discord Bot**__
 
 ~~**Link to GH Project:** <https://github.com/thec0sm0s/Async-OAuthlib>~~
 
-### ~~__**Flask Discord**__~~
+### ~~__**Flask Discord**__~~ [Fixed]
 
 **Description:** A Flask extension to easily implement Discord OAuth2.
 
