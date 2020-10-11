@@ -15,15 +15,17 @@
 
 ## Hacktoberfest Issues
 
-### __**Async OAuthlib**__
+### __**Instant Notes**__
 
-**Description:** Aiming to provide asynchronous support for requests_oauthlib using aiohttp rather than requests.
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
-**Issue:** I have tried looking for most of the requests usages in the library mostly in `oauth2_session.py` and `oauth2_auth.py` and patched them as for aiohttp. But the others like oauth1_session.py and oauth1_auth.py are still using requests. So the task is to remove all of the requests usages and replace with aiohttp. You make take look at oauth2_session.py for your reference.
+**Issue:** Currently it just has get method to return the note object. Implementations for update the note and delete the note needs to be added.
 
-**Tags:** `#Python` `#Aiohttp`
+**Tags:** `#Python` `#Flask`
 
-**Link to GH Project:** <https://github.com/thec0sm0s/Async-OAuthlib>
+**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/8>
+
+**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/9>
 
 __**Image Processor**__
 
@@ -53,16 +55,6 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/7>
 
-### __**Flask Discord**__
-
-**Description:** A Flask extension to easily implement Discord OAuth2.
-
-**Enhancement:** List the config keys being used by the library in its documentation along with its brief description.
-
-**Tags:** `#Python` `#Flask`
-
-**Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>
-
 ### __**Instant Notes**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
@@ -75,17 +67,6 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/3>
 
-### __**Instant Notes**__
-
-**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
-
-**Feature addition:** Allow same users to create multiple notes. Provide section for list of all of the notes in sidebar section in frontend.
-
-**Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
-
-**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/3>
-
-**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>
 
 ### __**Instant Notes**__
 
@@ -134,3 +115,35 @@ __**Cosmos Discord Bot**__
 **Tags:** `#Python` `#PIL` `#Pillow` `#Flask`
 
 ~~**Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/1>~~
+
+### ~~__**Async OAuthlib**__~~ [Fixed]
+
+**Description:** Aiming to provide asynchronous support for requests_oauthlib using aiohttp rather than requests.
+
+**Issue:** I have tried looking for most of the requests usages in the library mostly in `oauth2_session.py` and `oauth2_auth.py` and patched them as for aiohttp. But the others like oauth1_session.py and oauth1_auth.py are still using requests. So the task is to remove all of the requests usages and replace with aiohttp. You make take look at oauth2_session.py for your reference.
+
+**Tags:** `#Python` `#Aiohttp`
+
+~~**Link to GH Project:** <https://github.com/thec0sm0s/Async-OAuthlib>~~
+
+### ~~__**Flask Discord**__~~
+
+**Description:** A Flask extension to easily implement Discord OAuth2.
+
+**Enhancement:** List the config keys being used by the library in its documentation along with its brief description.
+
+**Tags:** `#Python` `#Flask`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>~~
+
+### ~~__**Instant Notes**__~~ [Fixed]
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Feature addition:** Allow same users to create multiple notes. Provide section for list of all of the notes in sidebar section in frontend.
+
+**Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
+
+~~**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/3>~~
+
+**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>
