@@ -15,7 +15,7 @@
 
 ## Hacktoberfest Issues
 
-### __**Instant Notes**__
+### __**Cosnote**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -23,9 +23,9 @@
 
 **Tags:** `#Python` `#Flask`
 
-**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/10>
+**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/10>
 
-### __**Instant Notes**__
+### __**Cosnote**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -33,9 +33,9 @@
 
 **Tags:** `#Python` `#Flask`
 
-**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/8>
+**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/8>
 
-**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/9>
+**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/9>
 
 __**Image Processor**__
 
@@ -65,7 +65,7 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/7>
 
-### __**Instant Notes**__
+### __**Cosnote**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -73,12 +73,12 @@ __**Cosmos Discord Bot**__
 
 **Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
 
-**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/2>
+**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/cosnote/issues/2>
 
 **Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/3>
 
 
-### __**Instant Notes**__
+### __**Instant Notes Web**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -88,7 +88,7 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/instant-notes-web/issues/2>
 
-### __**Instant Notes**__
+### __**Instant Notes Web**__
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -107,7 +107,7 @@ __**Cosmos Discord Bot**__
 
 ~~**Link to GH issue:** <https://github.com/thec0sm0s/TODOx/issues/4>~~
 
-### ~~__**Instant Notes**__~~ [Assigned]
+### ~~__**Cosnote**__~~ [Assigned]
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -115,7 +115,7 @@ __**Cosmos Discord Bot**__
 
 **Tags:** `#Python` `#Flask`
 
-~~**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/1>~~
+~~**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/1>~~
 
 ### ~~__**Image Processor**__~~ [Assigned]
 **Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
@@ -146,7 +146,7 @@ __**Cosmos Discord Bot**__
 
 ~~**Link to GH issue:** <https://github.com/thec0sm0s/Flask-Discord/issues/29>~~
 
-### ~~__**Instant Notes**__~~ [Fixed]
+### ~~__**Cosnote**__~~ [Fixed]
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
@@ -154,6 +154,6 @@ __**Cosmos Discord Bot**__
 
 **Tags:** `#Python` `#Flask` `#Javascript` `#ReactJS`
 
-~~**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/instant-notes/issues/3>~~
+~~**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/cosnote/issues/3>~~
 
 ~~**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>~~
