@@ -19,6 +19,16 @@
 
 **Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
 
+**Issue:** The registration endpoint is basic and can be exploited to create bulk fake account using scripts. A way to prevent this needs to be implemented like captcha or anything similar.
+
+**Tags:** `#Python` `#Flask`
+
+**Link to GH issue:** <https://github.com/thec0sm0s/instant-notes/issues/10>
+
+### __**Instant Notes**__
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
 **Issue:** Currently it just has get method to return the note object. Implementations for update the note and delete the note needs to be added.
 
 **Tags:** `#Python` `#Flask`
