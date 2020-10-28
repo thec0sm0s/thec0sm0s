@@ -15,29 +15,8 @@
 
 ## Hacktoberfest Issues
 
-### __**Cosnote**__
 
-**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
-
-**Issue:** The registration endpoint is basic and can be exploited to create bulk fake account using scripts. A way to prevent this needs to be implemented like captcha or anything similar.
-
-**Tags:** `#Python` `#Flask`
-
-**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/10>
-
-### __**Cosnote**__
-
-**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
-
-**Issue:** Currently it just has get method to return the note object. Implementations for update the note and delete the note needs to be added.
-
-**Tags:** `#Python` `#Flask`
-
-**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/8>
-
-**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/9>
-
-__**Image Processor**__
+### __**Image Processor**__
 
 **Description:** Image processor server is simple REST server made in Flask. Its task is really simple: to process the images on request and return the response.
 
@@ -47,7 +26,7 @@ __**Image Processor**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/image-processor/issues/2>
 
-__**Cosmos Discord Bot**__
+### __**Cosmos Discord Bot**__
 
 **Description:** A general purpose Discord bot which aims to satisfy everyone's requirements and interests, from administration of their servers to fun commands (soon) for normal its normal members.
 
@@ -57,7 +36,7 @@ __**Cosmos Discord Bot**__
 
 **Link to GH issue:** <https://github.com/thec0sm0s/cosmos-discord-bot/issues/6>
 
-__**Cosmos Discord Bot**__
+### __**Cosmos Discord Bot**__
 
 **Enhancement:** Add few more messages to be displayed over bot's status.
 
@@ -157,3 +136,26 @@ __**Cosmos Discord Bot**__
 ~~**Link to GH issue [Flask]:** <https://github.com/thec0sm0s/cosnote/issues/3>~~
 
 ~~**Link to GH issue [ReactJS]:** <https://github.com/thec0sm0s/instant-notes-web/issues/4>~~
+
+### ~~__**Cosnote**__~~ [To be considered]
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Issue:** The registration endpoint is basic and can be exploited to create bulk fake account using scripts. A way to prevent this needs to be implemented like captcha or anything similar.
+
+**Tags:** `#Python` `#Flask`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/10>~~
+
+### ~~__**Cosnote**__~~ [Finished]
+
+**Description:** A minimal web application for taking notes, built using Python Flask, ReactJS and uses MongoDB.
+
+**Issue:** Currently it just has get method to return the note object. Implementations for update the note and delete the note needs to be added.
+
+**Tags:** `#Python` `#Flask`
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/8>~~
+
+~~**Link to GH issue:** <https://github.com/thec0sm0s/cosnote/issues/9>~~
+
